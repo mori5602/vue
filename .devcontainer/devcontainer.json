@@ -9,7 +9,7 @@
 			"CORE_TOOLS_VERSION": "4"
 		}
 	},
-	"forwardPorts": [ 7071, 4280 ],
+	"forwardPorts": [ 7071, 4280, 8080 ],
 
 	// Configure tool-specific properties.
 	"customizations": {
